@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Obinna Asuzu</h1>
 <h3 align="center">Passionate fullstack Software Engineer with focus on Backend Development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bnnsz" alt="bnnsz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bnnsz" target="blank"><img src="https://img.shields.io/twitter/follow/bnnsz?logo=twitter&style=for-the-badge" alt="bnnsz" /></a> </p>
 
 - 🔭 I’m currently working on [Fluxvend](https://fluxvend.com)
